@@ -1,2 +1,2 @@
 # BI-projects
-IPL Dashboard (Statistics) 
+IPL Summary Report (Statistics) 
